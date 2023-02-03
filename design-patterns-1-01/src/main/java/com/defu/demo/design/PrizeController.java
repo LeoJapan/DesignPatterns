@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * 模拟发奖服务
+ * 模拟发奖服务 
  */
 public class PrizeController {
 
